@@ -1,13 +1,13 @@
 <h1 align="center">Hi 
 👋
 , I'm Pankaj Patel</h1>
-<h3 align="center">I am an embedded Developer from India</h3>
+<h3 align="center">I am a Software Developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankaj1980patel" alt="pankaj1980patel" /></a> </p>
 
 - 
 🌱
- I’m currently learning **C, C++, Python, Java**
+ I’m currently learning **Operating System, Graphics,.....**
 
 - 
 👯
