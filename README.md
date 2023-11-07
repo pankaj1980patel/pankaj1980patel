@@ -7,11 +7,11 @@
 
 - 
 🌱
- I’m currently learning **Operating System, Graphics,.....**
+ I’m currently learning **MERN Stack, Operating System, Graphics,.....**
 
 - 
 👯
- I’m looking to collaborate on **Any C, C++, Qt, Python, Embedded based projects**
+ I’m looking to collaborate on **Any Reactjs, Mongo, Nodejs, Express, C, C++, Qt, Python, Embedded based projects**
 
 <!--- 
 👨
@@ -25,7 +25,7 @@
 -->
 - 
 💬
- Ask me about **C, Python, Core level stuff!**
+ Ask me about **MERN Stack, C, Python, Core level stuff!**
 
 - 
 📫
